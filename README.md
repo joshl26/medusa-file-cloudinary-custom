@@ -27,7 +27,7 @@ Then configure your `medusa-config.js` to include the plugin alongside the requi
 
 ```=javascript
 {
-    resolve: `medusa-file-cloudinary`,
+    resolve: `medusa-file-cloudinary-custom`,
     options: {
         cloud_name: "YOUR_CLOUD_NAME",
         api_key: "YOUR_API_KEY",

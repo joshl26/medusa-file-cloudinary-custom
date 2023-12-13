@@ -1,9 +1,9 @@
 {
-  "name": "medusa-file-cloudinary",
+  "name": "medusa-file-cloudinary-custom",
   "version": "1.0.3",
   "description": "Cloudinary connector for Medusa",
   "main": "index.js",
-  "author": "NiketanG",
+  "author": "JoshLehman",
   "keywords": [
     "medusa",
     "medusa-file",
@@ -12,10 +12,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NiketanG/medusa-file-cloudinary"
+    "url": "git+https://github.com/joshl26/medusa-file-cloudinary-custom"
   },
-  "homepage": "https://github.com/NiketanG/medusa-file-cloudinary",
-  "publisher": "NiketanG",
+  "homepage": "https://github.com/joshl26/medusa-file-cloudinary-custom",
+  "publisher": "Joshl26",
   "dependencies": {
     "cloudinary": "^1.27.1",
     "medusa-core-utils": "^1.1.30"
@@ -36,5 +36,8 @@
   },
   "peerDependencies": {
     "medusa-interfaces": "1.x"
+  },
+  "bugs": {
+    "url": "https://github.com/joshl26/medusa-file-cloudinary-custom/issues"
   }
 }
