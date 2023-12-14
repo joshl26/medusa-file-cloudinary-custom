@@ -33,7 +33,7 @@ Then configure your `medusa-config.js` to include the plugin alongside the requi
         api_key: "YOUR_API_KEY",
         api_secret: "YOUR_API_SECRET",
         secure: true,
-        root_folder: "YOUR_CLOUDIANRY_STORE_FOLDER",
+        root_folder: "YOUR_CLOUDINARY_STORE_FOLDER",
     },
 },
 ```
